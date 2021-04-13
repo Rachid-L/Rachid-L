@@ -49,7 +49,7 @@ The repo of this work is her : [JSticiers's Memory][collab]
 
 ## :trophy: My Github Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rachid-L&theme=outrun)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rachid-L&theme=jolly)
 
 
 
