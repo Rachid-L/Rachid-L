@@ -16,7 +16,6 @@ I'm a web developer student at the Wild Code School of Lyon.
  <a href="https://github.com/Rachid-L" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/rachid-leboukh-413304185/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:leboukhrachid@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-  <a href="https://www.linkedin.com/in/rachid-leboukh-413304185/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
@@ -43,6 +42,9 @@ I'm a web developer student at the Wild Code School of Lyon.
 
 ## 👯 Teamwork:
 
+I collaborated in making a memory game.
+The repo of this work is her : [JSticier's Memory][collab]
+
 <br />
 
 ## :trophy: My Github Stats:
@@ -58,3 +60,4 @@ I'm a web developer student at the Wild Code School of Lyon.
 [website]: https://github.com/Rachid-L
 [linkedin]: https://www.linkedin.com/in/rachid-leboukh-413304185
 [mail]: mailto:leboukhrachid@gmail.com
+[collab]: https://github.com/Rachid-L/JSticiers-s-memory
