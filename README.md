@@ -43,7 +43,8 @@ I'm a web developer student at the Wild Code School of Lyon.
 ## 👯 Teamwork:
 
 I collaborated in making a memory game.
-The repo of this work is her : [JSticier's Memory][collab]
+<br />
+The repo of this work is her : [JSticiers's Memory][collab]
 
 <br />
 
