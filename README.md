@@ -7,6 +7,7 @@ I'm a web developer student at the Wild Code School of Lyon.
 - 👯 I’m looking to collaborate with nyone on any project.
 - ⚡ Fun fact: I love playing soccer and video games.
 
+<br />
 
 ## ✉️ Find me on:
 
@@ -31,6 +32,7 @@ I'm a web developer student at the Wild Code School of Lyon.
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 </p>
 
+<br />
 
 ## :trophy: My Github Stats:
 
