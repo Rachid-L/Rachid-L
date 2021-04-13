@@ -36,7 +36,7 @@ I'm a web developer student at the Wild Code School of Lyon.
 
 ## :trophy: My Github Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rachid-L&theme=maroongold)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rachid-L&theme=tokyonight)
 
 
 
