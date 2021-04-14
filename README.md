@@ -43,7 +43,7 @@ I'm a web developer student at the Wild Code School of Lyon.
 
 I collaborated in making a memory game.
 <br />
-The repo of this work is her : [JSticiers's Memory][collab]
+The repo of this work is here : [JSticiers's Memory][collab]
 
 <br />
 
