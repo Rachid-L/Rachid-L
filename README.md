@@ -3,7 +3,7 @@
 
 I'm a web developer student at the Wild Code School of Lyon. 
 
-- 🌱 I’m currently learning JAVA and Angular.
+- 🌱 I’m currently learning Java and Angular.
 - 👯 I’m looking to collaborate with anyone on any project.
 - ⚡ Fun fact: I love playing soccer and video games.
 
