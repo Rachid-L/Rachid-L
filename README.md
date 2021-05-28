@@ -42,8 +42,11 @@ I'm a web developer student at the Wild Code School of Lyon.
 ## :construction: Projects: 
  
 This space invader game is a project carried out in 4 weeks in autonomy.
+<br />
 This game was developed using HTML / CSS and Javascript.
+<br />
 Repo of this project here : [Space Invaders][project]
+<br />
 You can test the project here : [Let's play][space]
 
 <br />
