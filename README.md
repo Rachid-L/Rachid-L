@@ -45,7 +45,6 @@ This space invader game is a project carried out in 4 weeks in autonomy.
 <br />
 This game was developed using HTML / CSS and Javascript.
 <br />
-<br />
 Repo of this project here : [Space Invaders][project]
 <br />
 You can test the project here : [Let's play][space]
@@ -56,6 +55,7 @@ You can test the project here : [Let's play][space]
 
 I collaborated in making a memory game.
 The repo of this work is here : [JSticiers's Memory][collab]
+<br />
 <br />
 SpaceTools: a 24h-project developed with a 5-members teams. The goal? Providing a toolbox of games and distractions for robots which are on Mars.
 The repo of this work is here : [Tjunami Project][collab1]
