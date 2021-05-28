@@ -41,7 +41,7 @@ I'm a web developer student at the Wild Code School of Lyon.
 
 ## :construction: Projects: 
  
-
+[My Portfolio][website]
 This space invader game is a project carried out in 4 weeks in autonomy.
 <br />
 This game was developed using HTML / CSS and Javascript.
@@ -71,11 +71,10 @@ The repo of this work is here : [Tjunami Project][collab1]
 
 
 
-[website]: https://github.com/Rachid-L
+[website]: https://rachid-l.github.io/portfolio/
 [linkedin]: https://www.linkedin.com/in/rachid-leboukh-413304185
 [mail]: mailto:leboukhrachid@gmail.com
 [collab]: https://github.com/Rachid-L/JSticiers-s-memory
 [collab1]: https://github.com/Rachid-L/TjunamiProject
 [project]: https://github.com/Rachid-L/SpaceInvaders
-[space]: https://rachid-l.github.io/SpaceInvaders/
-[portfolio]: https://rachid-l.github.io/portfolio/
+[space]: https://rachid-l.github.io/SpaceInvaders/ 
