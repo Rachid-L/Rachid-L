@@ -39,11 +39,22 @@ I'm a web developer student at the Wild Code School of Lyon.
 
 <br />
 
+## :construction: Projects: 
+ 
+This space invader game is a project carried out in 4 weeks in autonomy.
+This game was developed using HTML / CSS and Javascript.
+Repo of this project here : [Space Invaders] [project]
+You can test the project here : [Let's play] [space]
+
+<br />
+ 
 ## 👯 Teamwork:
 
 I collaborated in making a memory game.
-<br />
 The repo of this work is here : [JSticiers's Memory][collab]
+<br />
+SpaceTools: a 24h-project developed with a 5-members teams. The goal? Providing a toolbox of games and distractions for robots which are on Mars.
+The repo of this work is here : [Tjunami Project][collab1]
 
 <br />
 
@@ -61,3 +72,7 @@ The repo of this work is here : [JSticiers's Memory][collab]
 [linkedin]: https://www.linkedin.com/in/rachid-leboukh-413304185
 [mail]: mailto:leboukhrachid@gmail.com
 [collab]: https://github.com/Rachid-L/JSticiers-s-memory
+[collab1]: https://github.com/Rachid-L/TjunamiProject
+[project]: https://github.com/Rachid-L/SpaceInvaders
+[space]: https://rachid-l.github.io/SpaceInvaders/
+[portfolio]: https://rachid-l.github.io/portfolio/
