@@ -41,7 +41,8 @@ I'm a web developer student at the Wild Code School of Lyon.
 
 ## :construction: Projects: 
 
-[My portfolio][portfolio] 
+:gear: [My portfolio][portfolio] 
+<br />
 <br />
 This space invader game is a project carried out in 4 weeks in autonomy.
 <br />
