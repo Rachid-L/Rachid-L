@@ -40,12 +40,14 @@ I'm a web developer student at the Wild Code School of Lyon.
 <br />
 
 ## :construction: Projects: 
- 
+
+[My portfolio][portfolio] 
+<br />
 This space invader game is a project carried out in 4 weeks in autonomy.
 <br />
 This game was developed using HTML / CSS and Javascript.
 <br />
-Repo of this project here : [Space Invaders][project] and you can test the project here : "[Let's play][space]"
+Repo of this project here : [Space Invaders][project] and you can test the project here : ["Let's play"][space]
 
 <br />
  
