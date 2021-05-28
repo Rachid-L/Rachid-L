@@ -40,7 +40,7 @@ I'm a web developer student at the Wild Code School of Lyon.
 <br />
 
 ## :construction: Projects: 
-
+<br />
 :gear: [My portfolio][portfolio] 
 <br />
 <br />
