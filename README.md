@@ -41,6 +41,7 @@ I'm a web developer student at the Wild Code School of Lyon.
 
 ## :construction: Projects: 
  
+:bulb:
 [My Portfolio][website]
 <br />
 <br />
